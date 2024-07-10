@@ -175,6 +175,8 @@ footer h1{
 .contact_partie3{
     flex: 100px;
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
     padding-top: 60px;
     gap: 10px;
